@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelevisaoCet30GUI", "TelevisaoCet30GUI\TelevisaoCet30GUI.csproj", "{63770C7B-A7DA-497E-B128-FAC456021A6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63770C7B-A7DA-497E-B128-FAC456021A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63770C7B-A7DA-497E-B128-FAC456021A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63770C7B-A7DA-497E-B128-FAC456021A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63770C7B-A7DA-497E-B128-FAC456021A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D8BD9C7-84D1-4D93-ABC9-81368F96D065}
+	EndGlobalSection
+EndGlobal
