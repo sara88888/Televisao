@@ -1,1 +1,1 @@
-# TelevisaoCET30GUI
+# Televisao em Windows Forms
