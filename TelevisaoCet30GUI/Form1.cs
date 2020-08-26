@@ -34,6 +34,7 @@
             ButtonDiminuiVolume.Enabled = true;
             TrackBarVolume1.Enabled = true;
         }
+
         private void ButtonOnOff_Click(object sender, EventArgs e)
         {
             if (!minhaTV.Estado)
@@ -65,6 +66,7 @@
             minhaTV.Canal--;
             LabelCanal.Text = minhaTV.Canal.ToString();
         }
+        //validações podem ser feitas no programa ou na classe
 
         private void ButtonAumentaVolume_Click(object sender, EventArgs e)
         {
